@@ -21,7 +21,3 @@ Built using the [Telegraf](https://github.com/telegraf/telegraf) framework.
 - **TypeScript**
 - **Telegraf** (Telegram Bot API library)
 - **PM2** (for production process management)
-
----
-
-## 📁 Project Structure

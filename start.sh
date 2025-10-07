@@ -7,7 +7,7 @@ set -e
 APP_NAME="telegram-broadcast-bot"
 
 echo "🔧 Building the project..."
-yarn build || npm run build
+npm run build
 
 echo "🚀 Starting bot with PM2..."
 
